@@ -1,8 +1,10 @@
-# Bang
+![imgres](https://cloud.githubusercontent.com/assets/106776/11532048/0e987ea2-98f9-11e5-9608-1439a89a8607.png)
 
 **Bang** is a command line tool for quick storage and retriveal of text snippets. It is a go implementation of this thing: https://github.com/jimmycuadra/bang
 
+
 ## Installation
+Todo...
 
 ## Get help
 
